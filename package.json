@@ -1,0 +1,19 @@
+{
+  "name": "hw42",
+  "version": "0.0.1",
+  "description": "itc homework 42",
+  "main": "task_2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dameere/hw42.git"
+  },
+  "author": "damir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dameere/hw42/issues"
+  },
+  "homepage": "https://github.com/dameere/hw42#readme"
+}
