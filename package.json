@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dameere/hw42/issues"
   },
-  "homepage": "https://github.com/dameere/hw42#readme"
+  "homepage": "https://github.com/dameere/hw42#readme",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
 }
