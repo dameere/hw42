@@ -1,0 +1,12 @@
+mkdir projects
+cd projects/
+mkdir my_project
+cd my_project/
+mkdir dir1 dir2 dir3
+cd dir1/
+mkdir subdir1
+cd ..
+cd dir3/
+mkdir subdir2
+
+
